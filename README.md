@@ -52,12 +52,6 @@ The project focuses on data visualization, dashboard storytelling, and interacti
 
 ---
 
-## Dashboard Preview
-
-(Add dashboard screenshot here)
-
----
-
 ## Key Insights
 
 - Movies dominate Netflix content compared to TV Shows
@@ -65,12 +59,6 @@ The project focuses on data visualization, dashboard storytelling, and interacti
 - United States contributes the highest amount of content
 - TV-MA is one of the most common ratings
 - International content categories have strong representation
-
----
-
-## Tableau Public Dashboard
-
-(Add Tableau Public Link Here)
 
 ---
 
